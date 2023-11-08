@@ -1,6 +1,6 @@
 Github sivu, jossa Jekyll teema
 
-Tervetuloa!
+Tervetuloa! 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod elit diam, non imperdiet elit consequat id. 
 Donec quis arcu risus. Maecenas feugiat convallis velit, tempor fermentum quam pretium at. 
