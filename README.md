@@ -1,3 +1,1 @@
 # pilvipalvelut_tehtavat
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod elit diam, non imperdiet elit consequat id. Donec quis arcu risus. Maecenas feugiat convallis velit, tempor fermentum quam pretium at. Suspendisse aliquet, purus ut luctus finibus, felis urna fermentum sapien, sit amet vehicula nisl urna ut lacus. Nullam convallis, ex sed fermentum egestas, massa augue molestie est, vel suscipit lectus odio ac sem. Ut tellus risus, tincidunt in lobortis non, condimentum et elit. Morbi placerat ullamcorper dapibus.
